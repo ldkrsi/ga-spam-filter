@@ -1,7 +1,7 @@
 my_dict = {}
 
 for line in open("spam_list.txt",'r'):
-	second, top = line.strip().split('.')
+	second, top = '.'.join(line.strip().split('.')[:-1]),line.strip().split('.')[-1]
 	try:
 		my_dict[top].add(second)
 	except:
