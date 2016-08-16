@@ -10,7 +10,7 @@ for line in open("spam_list.txt",'r'):
 my_list = []
 for key, value in my_dict.items():
 	tmp = list(value)
-	my_list.append("(%s)\\.%s" % ("|".join([i.replace("-","\\-") for i in tmp]), key))
+	my_list.append("(%s)\\.%s" % ("|".join([i.replace("-","\\-").replace(".","\\.") for i in tmp]), key))
 	
 
 with open("result.re",'w') as f:
