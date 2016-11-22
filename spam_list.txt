@@ -91,3 +91,4 @@ abc.xyz
 compliance-barak.xyz
 compliance-ivan.xyz
 compliance-irvin.xyz
+thenextweb.com
