@@ -8,3 +8,7 @@ Filter Google Analytics spam by regular expression
 
 ## Thanks
 [Removing Referral Spam from Google Analytics](https://www.viget.com/articles/removing-referral-spam-from-google-analytics)
+
+## RSS Feed
+
+Using RSS Reader to [follow this project](https://github.com/ldkrsi/ga-spam-filter/commits/master.atom).
