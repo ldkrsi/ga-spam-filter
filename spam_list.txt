@@ -92,3 +92,4 @@ compliance-barak.xyz
 compliance-ivan.xyz
 compliance-irvin.xyz
 thenextweb.com
+compliance-brian.xyz
